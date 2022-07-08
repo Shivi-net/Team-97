@@ -1,6 +1,0 @@
-Team-97
-student-1:Shivalika
-Student-2:Priyanshu
-student-3:Dhanraj
-Student-4:Govind
-Student-5:Rishabh
